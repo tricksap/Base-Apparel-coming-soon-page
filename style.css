@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+.box-1{
+    background:url(./images/bg-pattern-desktop.svg)
+}
+.container{
+    display: flex;
+}
